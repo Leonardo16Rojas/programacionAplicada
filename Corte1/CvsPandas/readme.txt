@@ -1,1 +1,1 @@
-Este es el espacio para las tareas con la ibreria de "Pandas"
+Este es el espacio para las tareas con la libreria de "Pandas"
