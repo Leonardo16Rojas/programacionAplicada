@@ -26,7 +26,7 @@ class Calculator:#Python usa class Calcualtor: en lugar de public class Calculat
         try:
           return a % b
         except ZeroDivisionError:
-            return "No se puede calcular el módulo por cero"
+          return "No se puede calcular el módulo por cero"
 
   #Python usa if __name__ == "__main__": para el punto de entrada
 if __name__ == "__main__": # El equivalente al main de Java en Python es este bloque if,
