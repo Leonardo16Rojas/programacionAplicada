@@ -17,7 +17,7 @@ class Calculator:#Python usa class Calcualtor: en lugar de public class Calculat
     def divide(self, a, b): # Metodo para dividir dos numeros
         try:
            return a / b # Nota: En Python la division de enteros con / devuelve float
-        except ZeroDivisionError:
+        except ZeroDivisionError: #Execpcion tipica de python
            return "No se puede dividir entre cero"
     # Si quisiera la division entera como en Java, deberias usar //  (return a // b)
        
