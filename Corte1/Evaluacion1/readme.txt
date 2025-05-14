@@ -2,8 +2,8 @@ Primer parcial:
 Nombre: Leonardo Absalon Avila Rojas 
 Codigo: 20232005051
 Grupo:005-9
-Punto 1: 
-- Enlace:
+Punto 1:
+- Enlace:https://drive.google.com/drive/folders/1H_3seB3KxJYeuB02UGUzhcqN8mqInnhk?usp=sharing
 Punto 2:
 - Archivo calculator Python.py
 Punto 3:
